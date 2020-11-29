@@ -5,6 +5,7 @@ const clearBtn = document.querySelector('.clear-tasks');
 const filter = document.querySelector('#filter');
 const taskInput = document.querySelector('#task');
 // just for commiting changes
+//just for  commiting changes 
 // Load all event listeners
 loadEventListeners();
 
